@@ -1,0 +1,27 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+  * I've finished my first project here.
+It took a long time to complete as it was my introduction to web development. But, I learnt so many things during the hole process and now I'm ready for next.
+Well, I had learnt HTML, CSS and JavaScript before but, here in I'm learning how to implement all these things.
+I did research for getting more to solve the problems. I learnt about how to design a website and a lot more...
+
+
+  *As I have some idea about HTML so it was quite easy for me to complete it.
+  
+
+  *Nothing has been difficult.
+But, I did not have any idea about GitHub, CodePen and Slack as well, so I started learning about all of this first.
+So, It was quite slow.
+
+
+  *It was a great learning experience.
+The One thing I conformed when I finished this first project that, in the end of this course I'll find the best version of me and I'll give my best for that.
+So, Thanks to GoogleUdacity. 
